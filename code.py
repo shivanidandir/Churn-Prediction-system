@@ -13,7 +13,7 @@ warnings.filterwarnings("ignore")
 from pylab import rcParams
 get_ipython().run_line_magic('matplotlib', 'inline')
 # Loading the CSV with pandas
-data = pd.read_csv('C:\\Users\\Tanu\\Desktop\\projects\\Churn.csv')
+data = pd.read_csv('\\projects\\Churn.csv')
 data.head()
 
 
