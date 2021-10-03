@@ -9,4 +9,4 @@ Following modules are implemented :-
 
 The accuracy obtained is 0.8091779465170023
 
-I did not only find out which customers are likely to churn, but also which features have the most impact on a customer leaving. So maybe discuss with the customer, so that you can get insight about their needs and can make the model which will be totally different evaluating their predictors. And to retain the customer you should talk to them (who will likely churn) so that you can improve later on.
+I did not only find out which customers are likely to churn, but also which features have the most impact on a customer leaving. Maybe discuss with the customer, so that you can get insight about their needs and can make the model which will be totally different from evaluated predictors. And to retain the customer you should talk to them (who will likely churn) so that you can improve later on.
